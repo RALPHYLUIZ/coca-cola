@@ -62,5 +62,9 @@ footer{
     justify-content: end;
     align-items: center;
     padding-right: 75px;
+    
+}
 
+h2{
+    text-align: center;
 }
